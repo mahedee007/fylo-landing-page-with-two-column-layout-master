@@ -23,3 +23,11 @@ body{
     background-position: center;
     background-size: cover;
 }
+.features-items{
+    padding-top:70px;
+}
+
+.features-items a{
+    color: hsl(170, 45%, 43%);
+    
+}
