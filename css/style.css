@@ -31,3 +31,13 @@ body{
     color: hsl(170, 45%, 43%);
     
 }
+.newsletter{
+    background-color: hsl(238, 22%, 44%);
+}
+.newsletter-items{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+.newsletter-items input{
+    padding: 5px 80px
+}
