@@ -41,3 +41,13 @@ body{
 .newsletter-items input{
     padding: 5px 80px
 }
+.footer-section{
+    background-color: hsl(243, 87%, 12%);
+
+}
+
+.footer-items{
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+}
